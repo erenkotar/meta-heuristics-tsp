@@ -2,6 +2,7 @@
 <h2>
   Heuristic Optimization Approaches to Traveling Salesman Problem (TSP)
 </h2>
+</div>
 
 ## Aim
 The aim of this tool is to create a Meta Heuristic-based optimization solution specifically designed for the Traveling Salesman Problem.
